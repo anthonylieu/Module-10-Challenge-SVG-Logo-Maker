@@ -39,7 +39,7 @@ Example SVG files generated with the application can be found in the `examples` 
 
 ## Walkthrough Video
 
-A walkthrough video demonstrating the functionality of the SVG Logo Maker can be found [here](https://drive.google.com/file/d/1l0vFPiYv6qZCRC9oUPEUcQMoecJLpvlf/view).
+A walkthrough video demonstrating the functionality of the SVG Logo Maker can be found [here.](https://drive.google.com/file/d/1l0vFPiYv6qZCRC9oUPEUcQMoecJLpvlf/view)
 
 ## License
 
