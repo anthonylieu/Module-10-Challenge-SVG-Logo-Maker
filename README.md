@@ -1,5 +1,6 @@
 # SVG Logo Maker
 
+![GitHub](https://img.shields.io/github/license/anthonylieu/svg-logo-maker)
 A command-line application for generating SVG logos.
 
 ## Installation
