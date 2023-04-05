@@ -43,4 +43,4 @@ A walkthrough video demonstrating the functionality of the SVG Logo Maker can be
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
