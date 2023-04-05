@@ -15,9 +15,9 @@
   "author": "Anthony Lieu",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "inquirer": "^8.2.5"
   },
   "devDependencies": {
-    "jest": "^27.4.5"
+    "jest": "^27.5.1"
   }
 }
